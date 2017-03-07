@@ -8,3 +8,8 @@ By dodging, you lose 100 points, and by shooting you gain 100 points. Blue aster
 them down you get a new life. Everytime you lose a life, a blue asteroid will appear. As the game continues, the asteroids get faster and more appear on the screen.
 
 Use the up and down arrows to move and the right arrow to shoot. 
+
+SOURCES:
+Background music - http://www.orangefreesounds.com/category/music/background-music/
+Sound effects - http://soundbible.com/
+Ship - 
