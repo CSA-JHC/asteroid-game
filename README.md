@@ -12,4 +12,4 @@ Use the up and down arrows to move and the right arrow to shoot.
 SOURCES:
 Background music - http://www.orangefreesounds.com/category/music/background-music/
 Sound effects - http://soundbible.com/
-Ship - 
+Ship - https://www.google.com/imgres?imgurl=http%3A%2F%2Fclasses.dma.ucla.edu%2FFall14%2F161%2Fprojects%2Ftobias%2F6-portfolio%2Fstudies%2Fstg-weekly%2Fship-comaprison.jpg&imgrefurl=http%3A%2F%2Fclasses.dma.ucla.edu%2FFall14%2F161%2Fprojects%2Ftobias%2F6-portfolio%2Fstudies%2Fstg-weekly%2Fstg-weekly.html&docid=z62LnczsNR-8wM&tbnid=XijHDxJ9WKTS_M%3A&vet=1&w=2550&h=578&safe=active&bih=928&biw=1280&q=black%20and%20white%20galaga%20ship&ved=0ahUKEwi4nLfik8XSAhUIw2MKHeRFBfEQMwgfKAQwBA&iact=mrc&uact=8#h=578&imgdii=4tLtyA5k2UHZPM:&imgrc=XijHDxJ9WKTS_M:&vet=1&w=2550
